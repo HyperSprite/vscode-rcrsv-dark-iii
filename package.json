@@ -1,0 +1,24 @@
+{
+  "name": "rcrsv-dark-iii",
+  "displayName": "rcrsv-dark-iii",
+  "description": "VS Code theme of dark red and goldenrod",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/HyperSprite/vscode-rcrsv-dark-iii"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RCRSV Dark III",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RCRSV Dark III-color-theme.json"
+      }
+    ]
+  }
+}
